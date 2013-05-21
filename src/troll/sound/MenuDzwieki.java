@@ -1,4 +1,4 @@
-package troll.sound;
+package sound;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
